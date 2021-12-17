@@ -1,0 +1,9 @@
+<?php
+	include_once('functions/request.php');
+	include_once('functions/utils.php');
+	include_once('functions/cookie.php');
+	include_once('functions/text.php');
+	include_once('functions/fast.php');
+	include_once('functions/timer.php');
+	include_once('functions/file.php');
+?>

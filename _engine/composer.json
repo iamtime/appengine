@@ -1,0 +1,26 @@
+{
+    "name": "iamtime/appengine",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            
+        }, 
+        "classmap": [
+           
+        ],
+        "files": [
+           "functions.php"
+        ]
+    },
+    "require": {
+        "php-activerecord/php-activerecord": "^1.2",
+        "smarty/smarty": "^3.1",
+        "soundintheory/php-sql-parser": "^1.0",
+        "jeremeamia/superclosure": "^2.4",
+        "greenlion/php-sql-parser": "^4.3",
+        "phpoffice/phpspreadsheet": "^1.9",
+        "stil/curl-easy": "^1.2",
+        "guzzlehttp/guzzle": "^7.2"
+    }
+}
